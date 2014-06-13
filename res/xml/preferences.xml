@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >    
+	<EditTextPreference
+	    android:key="ip"
+	    android:title="OSC IP"
+	    android:summary="IP del OSC Server"
+	    android:defaultValue="192.168.1.2"
+	    android:digits="0123456780"
+		android:inputType="text"
+	/>
+	
+	<EditTextPreference
+	    android:key="port"
+	    android:title="OSC Port"
+	    android:summary="Puerto de OSC Server"
+	    android:defaultValue="9000"
+	    android:digits="0123456780"
+		android:inputType="text"
+	/>
+	
+</PreferenceScreen>

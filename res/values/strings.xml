@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Vos lo hacés BA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Vos lo hacés BA</string>
+
+</resources>
